@@ -17,3 +17,24 @@ body{
 	display: flex;
 	justify-content: center;
 }
+
+.instagram-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	width: 60%;
+	height: 100vh
+}
+
+.instagram-fone {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50%;
+
+}
+
+.instagram-fone img{
+	height: 50rem;
+
+}
